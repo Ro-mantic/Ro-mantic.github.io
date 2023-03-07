@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://weiiup.top/2023/01/09/MySQL%E5%AD%A6%E4%B9%A0/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://weiiup.top/categories/index.html</loc>
     
     <lastmod>2023-01-07</lastmod>
@@ -31,11 +40,18 @@
 
   <url>
     <loc>https://weiiup.top/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <lastmod>2023-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://weiiup.top/tags/Java/</loc>
+    <lastmod>2023-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
